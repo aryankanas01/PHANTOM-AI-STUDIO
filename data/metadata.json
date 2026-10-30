@@ -1,0 +1,258 @@
+{
+  "images": {
+    "img_849bef3d71": {
+      "id": "img_849bef3d71",
+      "title": "Sunlit Outdoor Creative Portrait",
+      "original_filename": "outdoor_portrait_creator.jpg",
+      "created_at": "2026-10-30T16:51:18Z",
+      "updated_at": "2026-10-30T16:51:18Z",
+      "width": 1024,
+      "height": 1024,
+      "caption": "A smiling young creative woman outdoors in an autumn park with warm golden hour backlighting, soft bokeh background greenery, and natural atmospheric depth.",
+      "tags": [
+        "portrait",
+        "person",
+        "woman",
+        "smiling",
+        "golden hour",
+        "park",
+        "outdoor",
+        "bokeh",
+        "autumn",
+        "lifestyle"
+      ],
+      "objects": [
+        "young woman",
+        "blazer",
+        "leather backpack",
+        "notebook",
+        "foliage",
+        "fountain"
+      ],
+      "dominant_colors": [
+        "Terracotta Orange",
+        "Olive Green",
+        "Warm Sunlight",
+        "Deep Teal"
+      ],
+      "embedding": null,
+      "current_version_id": "img_849bef3d71_v1",
+      "versions": [
+        {
+          "version_id": "img_849bef3d71_v0",
+          "version_number": 0,
+          "parent_version_id": null,
+          "image_path": "data\\images\\originals\\img_849bef3d71_v0.jpg",
+          "thumbnail_path": "data\\images\\thumbnails\\img_849bef3d71_v0_thumb.jpg",
+          "timestamp": "2026-10-30T16:51:18Z",
+          "edit_type": "original",
+          "prompt": "Original Image",
+          "model_used": "camera/upload",
+          "notes": "Original image 1024x1024"
+        },
+        {
+          "version_id": "img_849bef3d71_v1",
+          "version_number": 1,
+          "parent_version_id": "img_849bef3d71_v0",
+          "image_path": "data\\images\\versions\\img_849bef3d71_v1.jpg",
+          "thumbnail_path": "data\\images\\thumbnails\\img_849bef3d71_v1_thumb.jpg",
+          "timestamp": "2026-10-30T16:51:18Z",
+          "edit_type": "golden_hour",
+          "prompt": "Enhance with warm sunset golden hour lighting",
+          "model_used": "Smart Vision Engine (golden_hour)",
+          "notes": "Sample visual transformation (golden_hour)"
+        }
+      ]
+    },
+    "img_8728aa89ee": {
+      "id": "img_8728aa89ee",
+      "title": "Sunlit Tropical Beach Coast",
+      "original_filename": "tropical_beach_sunset.jpg",
+      "created_at": "2026-10-30T16:51:18Z",
+      "updated_at": "2026-10-30T16:51:18Z",
+      "width": 1024,
+      "height": 1024,
+      "caption": "A breathtaking tropical beach bathed in radiant golden sunset light, with turquoise waves kissing fine white sand and graceful coconut palms leaning toward the ocean horizon.",
+      "tags": [
+        "beach",
+        "tropical",
+        "ocean",
+        "sunset",
+        "palm trees",
+        "sand",
+        "nature",
+        "vacation",
+        "golden hour",
+        "waves"
+      ],
+      "objects": [
+        "coconut palm trees",
+        "ocean waves",
+        "sandy shoreline",
+        "sunset sky",
+        "distant hills"
+      ],
+      "dominant_colors": [
+        "Turquoise",
+        "Golden Orange",
+        "Warm Sand",
+        "Azure Blue"
+      ],
+      "embedding": null,
+      "current_version_id": "img_8728aa89ee_v1",
+      "versions": [
+        {
+          "version_id": "img_8728aa89ee_v0",
+          "version_number": 0,
+          "parent_version_id": null,
+          "image_path": "data\\images\\originals\\img_8728aa89ee_v0.jpg",
+          "thumbnail_path": "data\\images\\thumbnails\\img_8728aa89ee_v0_thumb.jpg",
+          "timestamp": "2026-10-30T16:51:18Z",
+          "edit_type": "original",
+          "prompt": "Original Image",
+          "model_used": "camera/upload",
+          "notes": "Original image 1024x1024"
+        },
+        {
+          "version_id": "img_8728aa89ee_v1",
+          "version_number": 1,
+          "parent_version_id": "img_8728aa89ee_v0",
+          "image_path": "data\\images\\versions\\img_8728aa89ee_v1.jpg",
+          "thumbnail_path": "data\\images\\thumbnails\\img_8728aa89ee_v1_thumb.jpg",
+          "timestamp": "2026-10-30T16:51:18Z",
+          "edit_type": "preset",
+          "prompt": "Remaster micro-contrast and vivid ocean tones",
+          "model_used": "Smart Vision Engine (enhance_clarity)",
+          "notes": "Sample visual transformation (enhance_clarity)"
+        }
+      ]
+    },
+    "img_a6eab8182c": {
+      "id": "img_a6eab8182c",
+      "title": "Artisanal Latte & Workspace",
+      "original_filename": "artisanal_coffee_workspace.jpg",
+      "created_at": "2026-10-30T16:51:18Z",
+      "updated_at": "2026-10-30T16:51:18Z",
+      "width": 1024,
+      "height": 1024,
+      "caption": "An aesthetic top-down desktop scene featuring an artisanal latte with delicate swan latte art in a ceramic cup, next to an open notebook with handwritten reflections, tortoiseshell glasses, and a succulent.",
+      "tags": [
+        "coffee",
+        "latte art",
+        "workspace",
+        "minimalist",
+        "notebook",
+        "glasses",
+        "indoor",
+        "succulent",
+        "aesthetic",
+        "cozy"
+      ],
+      "objects": [
+        "coffee cup",
+        "saucer",
+        "open notebook",
+        "eyeglass frames",
+        "potted succulent",
+        "wooden tabletop"
+      ],
+      "dominant_colors": [
+        "Warm Oak Brown",
+        "Cream Latte",
+        "Sage Green",
+        "Tortoiseshell"
+      ],
+      "embedding": null,
+      "current_version_id": "img_a6eab8182c_v1",
+      "versions": [
+        {
+          "version_id": "img_a6eab8182c_v0",
+          "version_number": 0,
+          "parent_version_id": null,
+          "image_path": "data\\images\\originals\\img_a6eab8182c_v0.jpg",
+          "thumbnail_path": "data\\images\\thumbnails\\img_a6eab8182c_v0_thumb.jpg",
+          "timestamp": "2026-10-30T16:51:18Z",
+          "edit_type": "original",
+          "prompt": "Original Image",
+          "model_used": "camera/upload",
+          "notes": "Original image 1024x1024"
+        },
+        {
+          "version_id": "img_a6eab8182c_v1",
+          "version_number": 1,
+          "parent_version_id": "img_a6eab8182c_v0",
+          "image_path": "data\\images\\versions\\img_a6eab8182c_v1.jpg",
+          "thumbnail_path": "data\\images\\thumbnails\\img_a6eab8182c_v1_thumb.jpg",
+          "timestamp": "2026-10-30T16:51:18Z",
+          "edit_type": "preset",
+          "prompt": "Vintage 1970s analog 35mm film color grading",
+          "model_used": "Smart Vision Engine (vintage_film)",
+          "notes": "Sample visual transformation (vintage_film)"
+        }
+      ]
+    },
+    "img_fe6b551f6f": {
+      "id": "img_fe6b551f6f",
+      "title": "Playful Golden Retriever in Autumn",
+      "original_filename": "golden_retriever_park.jpg",
+      "created_at": "2026-10-30T16:51:18Z",
+      "updated_at": "2026-10-30T16:51:19Z",
+      "width": 1024,
+      "height": 1024,
+      "caption": "A cheerful golden retriever sitting alert on vibrant green lawn grass in a sun-dappled park, surrounded by golden and russet autumn foliage and gentle afternoon sunlight.",
+      "tags": [
+        "dog",
+        "golden retriever",
+        "pet",
+        "animal",
+        "park",
+        "autumn",
+        "grass",
+        "happy",
+        "sunlight",
+        "outdoor"
+      ],
+      "objects": [
+        "golden retriever dog",
+        "collar",
+        "green grass",
+        "autumn trees",
+        "park pathway"
+      ],
+      "dominant_colors": [
+        "Golden Fur",
+        "Emerald Grass",
+        "Amber Leaves",
+        "Sky Blue"
+      ],
+      "embedding": null,
+      "current_version_id": "img_fe6b551f6f_v1",
+      "versions": [
+        {
+          "version_id": "img_fe6b551f6f_v0",
+          "version_number": 0,
+          "parent_version_id": null,
+          "image_path": "data\\images\\originals\\img_fe6b551f6f_v0.jpg",
+          "thumbnail_path": "data\\images\\thumbnails\\img_fe6b551f6f_v0_thumb.jpg",
+          "timestamp": "2026-10-30T16:51:18Z",
+          "edit_type": "original",
+          "prompt": "Original Image",
+          "model_used": "camera/upload",
+          "notes": "Original image 1024x1024"
+        },
+        {
+          "version_id": "img_fe6b551f6f_v1",
+          "version_number": 1,
+          "parent_version_id": "img_fe6b551f6f_v0",
+          "image_path": "data\\images\\versions\\img_fe6b551f6f_v1.jpg",
+          "thumbnail_path": "data\\images\\thumbnails\\img_fe6b551f6f_v1_thumb.jpg",
+          "timestamp": "2026-10-30T16:51:19Z",
+          "edit_type": "preset",
+          "prompt": "Convert to delicate watercolor illustration",
+          "model_used": "Smart Vision Engine (watercolor_art)",
+          "notes": "Sample visual transformation (watercolor_art)"
+        }
+      ]
+    }
+  }
+}
